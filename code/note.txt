@@ -1,0 +1,2 @@
+export SKILL_ID="TODO put your skill id here"
+export LANG="en-US"
